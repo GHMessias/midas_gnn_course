@@ -1,1 +1,1 @@
-# midas_gnn_course
+# Introdução aos Modelos de Redes Neurais em Grafos
